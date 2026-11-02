@@ -7,7 +7,7 @@ AI-Powered Disease Prediction System
 Project Overview
 This system leverages AI to help doctors diagnose diseases faster and more accurately using machine learning models like Logistic Regression and Support Vector Machines (SVM). It analyzes various medical data such as symptoms, test results, and medical images. The system is integrated into an easy-to-use Streamlit web app for real-time diagnostics.
 
-Disease Prediction Models
+Disease Prediction Models ::
 
 #### Diabetes: Predicts diabetes risk based on medical features using Logistic Regression and SVM.
 #### Heart Disease: Predicts the likelihood of heart disease based on medical and lifestyle data.
